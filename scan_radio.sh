@@ -1,5 +1,4 @@
 #!/bin/bash
-rmmod dvb_usb_rtl28xxu rtl2832
 output="output/test_"
 for count in $(seq 0 15)
 do
